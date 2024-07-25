@@ -4,9 +4,11 @@ This repository contains a collection of prompts used by my AI assistants. Feel 
 
 ## Meals planner
 
-This is a food advisor that helps you to create a weekly meals plan. 
+This is a food advisor that helps you to create a weekly meals plan. The prompt template is [here](./HuggingChat/meals-planner.md).
 
-- The prompt [template](./HuggingChat/meals-planner.md)
-- Online assistant: [food-planner.miguelvela.com](http://food-planner.miguelvela.com)
+### Interactive Meals Planning
+To interactively create your meals plan using the AI assistant, click the link below and start planning:
 
+\> [Launch Meals Planner](http://food-planner.miguelvela.com)
 
+Feel free to experiment with different inputs to get personalized meal suggestions tailored to your preferences and dietary needs.
