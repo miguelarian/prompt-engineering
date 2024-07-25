@@ -1,6 +1,6 @@
 # Prompt Engineering
 
-This is a repository with a list of prompts used by my AI assistants.
+This repository contains a collection of prompts used by my AI assistants. Feel free to use, edit, or modify them to suit your needs.
 
 ## Meals planner
 
